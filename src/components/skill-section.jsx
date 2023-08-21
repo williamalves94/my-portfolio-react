@@ -1,8 +1,5 @@
 import { Skill, DivMySkillsText, TechnicalSkills, ProfessionalSkills, AllSkills, BoxTechnologys, Technologys, Bar } from '../styles/skill-section-style';
 
-
-
-
 export const SkillSection = () => {
     return (
         <Skill id="skill">
