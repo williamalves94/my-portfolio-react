@@ -10,7 +10,7 @@ import { SidebarSection } from './sidebar';
 
     return (
       <Head>                                    
-        <p>Portfólio</p>
+        <p>Portfolio</p>
         <MenuIcon>
           <BiMenu onClick={showSidebar} />
           {sidebar && <SidebarSection active={setSidebar} />}
