@@ -12,7 +12,7 @@ export const ProjectSection = () => {
     return(
         <Projects id="projetos"> 
             <DivTextMyProjects>
-                <h2>Meus<span> Projetos</span></h2>
+                <h2>Meus<span> Projetos</span> Pessoais</h2>
             </DivTextMyProjects>
 
             <DivAllProjets> 
@@ -21,11 +21,11 @@ export const ProjectSection = () => {
                         <img src={ Portifolio1 }/>
                     </PortImg>
                     <DivBioImg>
-                        <h4>Projeto 1</h4>
-                        <p>Empty</p>
+                        <h4>Website Material UI</h4>
+                        <p>Projeto feito com ReactJS</p>
                         <ButtonProject>
                             <p>Ver Projeto</p>
-                            <a href="#"><BiLinkExternal /></a>
+                            <a href="https://website-mui.vercel.app/ target=_blank"><BiLinkExternal /></a>
                         </ButtonProject>
                     </DivBioImg>
                 </DivImgAndText>
