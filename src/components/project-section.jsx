@@ -1,4 +1,4 @@
-import Portifolio1 from '../assets/pf1.jpg';
+import Portifolio1 from '../assets/myportfolio.jpg';
 import Portifolio2 from '../assets/pf2.jpg';
 import Portifolio3 from '../assets/pf3.jpg';
 import Portifolio4 from '../assets/pf4.jpg';
@@ -12,7 +12,7 @@ export const ProjectSection = () => {
     return(
         <Projects id="projetos"> 
             <DivTextMyProjects>
-                <h2>Meus<span> Projetos</span> Pessoais</h2>
+                <h2>Meus <span>Projetos</span> Pessoais</h2>
             </DivTextMyProjects>
 
             <DivAllProjets> 
@@ -21,8 +21,8 @@ export const ProjectSection = () => {
                         <img src={ Portifolio1 }/>
                     </PortImg>
                     <DivBioImg>
-                        <h4>Website Material UI</h4>
-                        <p>Projeto feito com ReactJS</p>
+                        <h4>Meu Portfolio Pessoal</h4>
+                        <p>Projeto desenvolvido por mim do zero com ReatJS<br></br>e Styled-components 100% responsivo.</p>
                         <ButtonProject>
                             <p>Ver Projeto</p>
                             <a href="https://website-mui.vercel.app/ target=_blank"><BiLinkExternal /></a>
