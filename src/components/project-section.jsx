@@ -22,7 +22,7 @@ export const ProjectSection = () => {
                     </PortImg>
                     <DivBioImg>
                         <h4>Meu Portfolio Pessoal</h4>
-                        <p>Projeto desenvolvido por mim do zero com ReatJS<br></br>e Styled-components 100% responsivo.</p>
+                        <p>Projeto desenvolvido por mim do zero com ReatJS<br></br>e Styled Components 100% responsivo.</p>
                         <ButtonProject>
                             <p>Ver Projeto</p>
                             <a href="https://website-mui.vercel.app/ target=_blank"><BiLinkExternal /></a>
