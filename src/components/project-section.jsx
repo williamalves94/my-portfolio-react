@@ -35,7 +35,7 @@ export const ProjectSection = () => {
                         <img src={ Lordoftherings }/>
                     </PortImg>
                     <DivBioImg>
-                        <h4>Landing Page O Senhro dos Anéis</h4>
+                        <h4>Landing Page O Senhor dos Anéis</h4>
                         <p>Em desenvolvimento com ReactJS, Styled Components e React Router Dom</p>
                         <ButtonProject>
                             <p>Ver Projeto</p>
