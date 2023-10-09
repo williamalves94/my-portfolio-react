@@ -15,7 +15,7 @@ import curriculo from '../assets/curriculowilliam.pdf';
             <a href="https://wa.me/5515997781428" target='_blank'><BiLogoWhatsapp/></a>
           </DivIcon>
           <ButtonCV>
-            <a href={curriculo} download="Curriculo William">Download CV</a>
+            <a href={ curriculo } download="Curriculo William">Download CV</a>
           </ButtonCV>
         </DivText>
       </Home>
