@@ -21,8 +21,7 @@ import { SidebarSection } from './sidebar';
           <a href="#sobre">Sobre</a>
           <a href="#skill">Habilidades</a>
           <a href="#projetos">Projetos</a>              
-        </NavHeader>
-                                  
+        </NavHeader>                                  
       </Head>
     );
   };

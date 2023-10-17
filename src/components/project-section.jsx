@@ -1,5 +1,5 @@
 import Portifolio1 from '../assets/myportfolio.jpg';
-import Lordoftherings from '../assets/lotr.jpg';
+import Lordoftherings from '../assets/capaport.jpg';
 import Portifolio3 from '../assets/pf3.jpg';
 import Portifolio4 from '../assets/pf4.jpg';
 import Portifolio5 from '../assets/pf5.jpg';
@@ -36,7 +36,7 @@ export const ProjectSection = () => {
                     </PortImg>
                     <DivBioImg>
                         <h4>Landing Page O Senhor dos Anéis</h4>
-                        <p>Em desenvolvimento com ReactJS, Styled Components e React Router Dom</p>
+                        <p>90% finalizado com Javascript, ReactJS, Styled Components e React Router Dom 100% responsivo</p>
                         <ButtonProject>
                             <p>Ver Projeto</p>
                             <a href="#"><BiLinkExternal /></a>
