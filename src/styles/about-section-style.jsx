@@ -52,6 +52,7 @@ export const DivImg = styled.div`
         height: 350px;
         border-radius: 50%;
         border: 2px solid DeepSkyBlue;
+        
         @media( max-width: 450px ){
             width: 250px;
             height: 250px;
