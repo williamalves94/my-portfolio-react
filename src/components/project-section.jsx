@@ -64,7 +64,7 @@ export const ProjectSection = () => {
             <h4>O Senhor dos Anéis</h4>
             <p>
               Aplicação desenvolvida com Javascript, ReactJS, Styled Components
-              e React Router Dom, 100% responsivo
+              e React Router Dom, 100% Responsivo.
             </p>
             <ButtonProject
               href="https://website-lord-of-the-rings.vercel.app/"
@@ -93,8 +93,8 @@ export const ProjectSection = () => {
           <DivBioImg>
             <h4>Meu Portfolio Pessoal</h4>
             <p>
-              Projeto desenvolvido por mim do zero com ReactJS<br></br>e Styled
-              Components 100% responsivo.
+              Aplicação desenvolvida com Javascript, ReactJS, Styled Components
+              e React Router Dom, 100% Responsivo.
             </p>
             <ButtonProject>
               <p>Ver Projeto</p>
