@@ -30,8 +30,12 @@ export const ProjectSection = () => {
             <img src={Portifolio3} />
           </PortImg>
           <DivBioImg>
-            <h4>Projeto 3</h4>
-            <p>Empty</p>
+            <h4>Rick and Morty Website</h4>
+            <p>
+              Aplicação desenvolvida com Vite, Yarn, Javascript, ReactJS,
+              Typescript, React Router Dom, Styled components e GraphQL para o
+              consumo da api, 100% Responsivo.
+            </p>
             <ButtonProject
               href="https://azs-web-rickandmorty-green.vercel.app/"
               target="_blank"
@@ -57,14 +61,25 @@ export const ProjectSection = () => {
             <img src={Lordoftherings} />
           </PortImg>
           <DivBioImg>
-            <h4>Landing Page O Senhor dos Anéis</h4>
+            <h4>O Senhor dos Anéis</h4>
             <p>
-              90% finalizado com Javascript, ReactJS, Styled Components e React
-              Router Dom 100% responsivo
+              Aplicação desenvolvida com Javascript, ReactJS, Styled Components
+              e React Router Dom, 100% responsivo
             </p>
-            <ButtonProject>
-              <p>Ver Projeto</p>
-              <a href="#">
+            <ButtonProject
+              href="https://website-lord-of-the-rings.vercel.app/"
+              target="_blank"
+            >
+              <a
+                href="https://website-lord-of-the-rings.vercel.app/"
+                target="_blank"
+              >
+                Ver Projeto
+              </a>
+              <a
+                href="https://website-lord-of-the-rings.vercel.app/"
+                target="_blank"
+              >
                 <BiLinkExternal />
               </a>
             </ButtonProject>
@@ -83,7 +98,7 @@ export const ProjectSection = () => {
             </p>
             <ButtonProject>
               <p>Ver Projeto</p>
-              <a href="https://website-mui.vercel.app/ target=_blank">
+              <a href="#">
                 <BiLinkExternal />
               </a>
             </ButtonProject>
